@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.78jkoa.cn/sitemap.xml
